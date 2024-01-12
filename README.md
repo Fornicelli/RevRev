@@ -1,5 +1,5 @@
-# RevRev
-Experimental Reverse Reverb Sampler
+
+RevRev | Experimental Reverse Reverb Sampler
 
 # IMPORTANT END USER AGREEMENT
 UNSTABLE SOFTWARE. By using the software you agree to accept full responsibility for it use
