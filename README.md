@@ -21,7 +21,7 @@ Not abstraction-ready (uses "init" setting; no savestate objects).
 and save it somewhere (DAW project folder, for example) with a name of your choosing.
 
 NOTES: 
-= PlugData may save the PlugData patch with a DAW project, but this is not a certainty. When you wish to save
+PlugData may save the PlugData patch with a DAW project, but this is not a certainty. When you wish to save
 the current state of the patch, I recommend navigating to the aforementioned file menu in PlugData and using
 "Save Patch" or "Save Patch As.."
 
