@@ -16,7 +16,7 @@ Not abstraction-ready (uses "init" setting; no savestate objects).
 
 # INSTALLATION / USE
 1. Install PlugData (version 0.80 or later recommended)
-2. Load plugdata-fx VST3 and open RevRev_0901.pd
+2. Load plugdata-fx VST3 and open RevRev_0902.pd
 3. Before use, click on the menu button top left of the plugdata window (horizontal bars), choose "Save Patch As..",
 and save it somewhere (DAW project folder, for example) with a name of your choosing.
 
@@ -27,5 +27,5 @@ the current state of the patch, I recommend navigating to the aforementioned fil
 
 
 # KNOW PROBLEMS
-- Crashes in some hosts (FL Studio) when changing buffer Length or project tempo. If you want to change the
+- (MOSTLY) Fixed in 0902: Crashes in some hosts (FL Studio) when changing buffer Length or project tempo. If you want to change the
 length, do it in the PlugData standalone .exe, save, then use that saved patch in your DAW/host.
